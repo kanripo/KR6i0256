@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 五門禪經要用法
+#+DATE: 2015-08-30 20:14:12.056180
+#+PROPERTY: JUAN 0
